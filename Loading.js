@@ -3,7 +3,7 @@ import {StyleSheet, Text ,View} from "react-native";
 
 export default function Loading(){
     return <View style = {styles.container}>
-        <Text style={styles.text}>Getting the fucking Weather</Text>
+        <Text style={styles.text}>Getting the fucking Weather!</Text>
     </View>
 }
 const styles = StyleSheet.create({
